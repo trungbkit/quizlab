@@ -1,0 +1,6 @@
+{
+	"name": "quizlab/server",
+	"require": {
+		"klein/klein": "^2.1"
+	}
+}
